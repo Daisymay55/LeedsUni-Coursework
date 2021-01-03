@@ -1,1 +1,1 @@
-web: gunicorn Plague App:server
+web: gunicorn plague-app:server
